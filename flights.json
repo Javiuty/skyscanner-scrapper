@@ -1,0 +1,17 @@
+{
+  "data": {
+    "date": "Del 29 Abril al 3 de Mayo",
+    "info": [
+      {
+        "company": "Pegasus Airlines",
+        "price": "208 €",
+        "timestamp": 1699217736110
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "208 €",
+        "timestamp": 1699219268912
+      }
+    ]
+  }
+}
