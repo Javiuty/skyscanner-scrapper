@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: pnpm ci
+      - run: npm ci
 
       - name: Fetch resources
         run: node ./scraper.js

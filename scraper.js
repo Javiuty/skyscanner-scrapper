@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename)
 const pathToData = path.join(__dirname, 'flights.json')
 
 const saveFlightsData = async () => {
-  const browser = await puppeteer.launch({ headless: false })
+  const browser = await puppeteer.launch({ dumpio: true })
   const page = await browser.newPage()
 
   const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
