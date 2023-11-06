@@ -8,33 +8,29 @@ const __dirname = path.dirname(__filename)
 const pathToData = path.join(__dirname, 'flights.json')
 
 const saveFlightsData = async () => {
-  const browser = await puppeteer.launch({ dumpio: true })
+  const browser = await puppeteer.launch({ headless: 'new' })
   const page = await browser.newPage()
 
   const ua = 'Mozilla/8.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'
 
   await page.setUserAgent(ua)
 
-  await page.goto('https://www.skyscanner.es/transport/flights/mad/ista/240429/240504/?adultsv2=2&cabinclass=economy&childrenv2=&inboundaltsenabled=false&outboundaltsenabled=false&preferdirects=true&rtn=1', {
-    waitUntil: 'load',
-    timeout: 0
-})
+  await page.goto('https://www.kayak.es/flights/MAD-SAW/2024-04-29/2024-05-04?sort=price_a')
 
-  const cookieButton = await page.$('.CookieBanner_cookie-banner__buttons__ZjAzY button')
+  const cookieButton = await page.$('.RxNS-button-content')
 
   if (cookieButton) {
-    await page.waitForSelector('.CookieBanner_cookie-banner__buttons__ZjAzY button')
+    await page.waitForSelector(cookieButton)
 
-    await page.click('.CookieBanner_cookie-banner__buttons__ZjAzY button')
+    await page.click(cookieButton)
   }
 
   // wait till spinner price stop for fair price
   await new Promise((r) => setTimeout(r, 10000));
 
-
   const scrapeData = await page.evaluate(() => {
-    const price = document.querySelector('.Price_mainPriceContainer__MDM3O span').textContent
-    const company = document.querySelector('.BpkImage_bpk-image__img__MDZkN').alt
+    const price = document.querySelector('.f8F1-price-text').textContent
+    const company = document.querySelector('.J0g6-operator-text').textContent
 
     return { company, price, timestamp: Date.now() }
   })
