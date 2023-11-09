@@ -121,6 +121,11 @@
         "company": "Pegasus Airlines",
         "price": "228 €",
         "timestamp": 1699533133444
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "228 €",
+        "timestamp": 1699546913974
       }
     ]
   }
