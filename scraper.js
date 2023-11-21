@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
 const pathToData = path.join(__dirname, 'flights.json')
 
-const saveFlightsData = async () => {
+const saveFlightsData = async (url) => {
   const browser = await puppeteer.launch({ headless: 'new' })
   const page = await browser.newPage()
 
@@ -15,7 +15,7 @@ const saveFlightsData = async () => {
 
   await page.setUserAgent(ua)
 
-  await page.goto('https://www.kayak.es/flights/MAD-SAW/2024-04-29/2024-05-04?sort=price_a')
+  await page.goto(url)
 
   const cookieButton = await page.$('.RxNS-button-content')
 
@@ -43,12 +43,27 @@ const saveFlightsData = async () => {
 }
 
 
-saveFlightsData().then((scrapeData) => {
+saveFlightsData('https://www.kayak.es/flights/MAD-SAW/2024-04-29/2024-05-04?sort=price_a').then((scrapeData) => {
   fs.readFile('flights.json', 'utf8', (err, readObj) => {
     if (err) return `Error reading file from disk: ${err}`
 
     const jsonParsed = JSON.parse(readObj)
-    jsonParsed.data.info.push(scrapeData)
+    jsonParsed.data0.info.push(scrapeData)
+
+    fs.writeFile(path.resolve(pathToData), JSON.stringify(jsonParsed, null, 2), (err) => {
+      if (err) return `Error writing file ${err}`
+    })
+  })
+
+  return 'Data created correctly ✅'
+})
+
+saveFlightsData('https://www.kayak.es/flights/MAD-SAW/2024-04-30/2024-05-06?sort=price_a').then((scrapeData) => {
+  fs.readFile('flights.json', 'utf8', (err, readObj) => {
+    if (err) return `Error reading file from disk: ${err}`
+
+    const jsonParsed = JSON.parse(readObj)
+    jsonParsed.data1.info.push(scrapeData)
 
     fs.writeFile(path.resolve(pathToData), JSON.stringify(jsonParsed, null, 2), (err) => {
       if (err) return `Error writing file ${err}`
