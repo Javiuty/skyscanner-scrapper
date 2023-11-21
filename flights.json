@@ -489,8 +489,483 @@
     "info": [
       {
         "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699217736110
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699219268912
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699221839758
+      },
+      {
+        "company": "Pegasus Airlines",
         "price": "188 €",
-        "timestamp": 1700595797460
+        "timestamp": 1699265280303
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699265843195
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699274062180
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699287781661
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699301854153
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699319653878
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699330797331
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699345259570
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699360333619
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699374132112
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699388268348
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699405991745
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699417189987
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699431651301
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699446737430
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699460542435
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699474654777
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699492430691
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699503589904
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699518098647
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699533133444
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699546913974
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699561075213
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699578788642
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699589999423
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699604431223
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699619520004
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699633306420
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699647440681
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699669491603
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699676364556
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699690756016
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699705778062
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699719596207
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699733781946
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699751901495
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699762767644
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699777169362
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699792193314
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699805997335
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699820182098
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699838119575
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699849223091
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699863717020
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699878788299
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699892554377
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699906578683
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699924410574
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699935581315
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699950060175
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699965133333
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699978736100
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1699993006698
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700010905680
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700022020463
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700036502508
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700051631778
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700065394293
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700079498369
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700097362871
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700108470799
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700122915778
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700138026424
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700151824074
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700165904898
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700183747873
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700194861098
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700209304475
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700224383078
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700238317102
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700252325371
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700270097298
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700281212879
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700295592575
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700310595515
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700324425769
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700338608393
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700356833243
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700367605252
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700382000145
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700397035250
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700410835679
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700425020000
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700454089546
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700468582872
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700483665867
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700497375857
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700511535978
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700529494615
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700540463550
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700554935434
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700570064665
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "188 €",
+        "timestamp": 1700583858406
       }
     ]
   }
