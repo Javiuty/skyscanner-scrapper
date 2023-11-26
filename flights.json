@@ -606,6 +606,11 @@
         "company": "Pegasus Airlines",
         "price": "241 €",
         "timestamp": 1700972394075
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "241 €",
+        "timestamp": 1700986780004
       }
     ]
   },
@@ -741,6 +746,11 @@
         "company": "Pegasus Airlines",
         "price": "221 €",
         "timestamp": 1700972393407
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "221 €",
+        "timestamp": 1700986779502
       }
     ]
   }
