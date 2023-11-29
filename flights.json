@@ -711,6 +711,11 @@
         "company": "Pegasus Airlines",
         "price": "241 €",
         "timestamp": 1701275016181
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "241 €",
+        "timestamp": 1701289088623
       }
     ]
   },
@@ -951,6 +956,11 @@
         "company": "Pegasus Airlines, easyJet",
         "price": "258 €",
         "timestamp": 1701275015537
+      },
+      {
+        "company": "Pegasus Airlines, Volotea",
+        "price": "264 €",
+        "timestamp": 1701289088352
       }
     ]
   }
