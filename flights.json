@@ -1161,6 +1161,11 @@
         "company": "Iberia, Pegasus Airlines",
         "price": "246 €",
         "timestamp": 1702585130510
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "257 €",
+        "timestamp": 1702603016388
       }
     ]
   },
@@ -1856,6 +1861,11 @@
         "company": "Pegasus Airlines, Volotea",
         "price": "247 €",
         "timestamp": 1702585131129
+      },
+      {
+        "company": "Pegasus Airlines, Volotea",
+        "price": "239 €",
+        "timestamp": 1702603017968
       }
     ]
   }
