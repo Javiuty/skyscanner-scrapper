@@ -1251,6 +1251,11 @@
         "company": "easyJet, Pegasus Airlines",
         "price": "241 €",
         "timestamp": 1702862212987
+      },
+      {
+        "company": "easyJet, Pegasus Airlines",
+        "price": "238 €",
+        "timestamp": 1702873291889
       }
     ]
   },
@@ -2036,6 +2041,11 @@
         "company": "Pegasus Airlines, Wizz Air Malta",
         "price": "230 €",
         "timestamp": 1702862212764
+      },
+      {
+        "company": "Pegasus Airlines, Volotea",
+        "price": "245 €",
+        "timestamp": 1702873291961
       }
     ]
   }
