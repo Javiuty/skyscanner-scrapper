@@ -1506,6 +1506,11 @@
         "company": "Varias aerolíneas",
         "price": "277 €",
         "timestamp": 1703621843462
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "273 €",
+        "timestamp": 1703639581965
       }
     ]
   },
@@ -2546,6 +2551,11 @@
         "company": "Varias aerolíneas",
         "price": "250 €",
         "timestamp": 1703621844721
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "243 €",
+        "timestamp": 1703639581877
       }
     ]
   }
