@@ -1676,6 +1676,11 @@
         "company": "Varias aerolíneas",
         "price": "276 €",
         "timestamp": 1704126076112
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "270 €",
+        "timestamp": 1704140251728
       }
     ]
   },
@@ -2886,6 +2891,11 @@
         "company": "Pegasus Airlines, Wizz Air Malta",
         "price": "238 €",
         "timestamp": 1704126075851
+      },
+      {
+        "company": "Pegasus Airlines, Wizz Air Malta",
+        "price": "238 €",
+        "timestamp": 1704140252371
       }
     ]
   }
