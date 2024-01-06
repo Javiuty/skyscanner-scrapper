@@ -1821,6 +1821,11 @@
         "company": "Pegasus Airlines, Air Europa",
         "price": "210 €",
         "timestamp": 1704544237295
+      },
+      {
+        "company": "Pegasus Airlines, Air Europa",
+        "price": "211 €",
+        "timestamp": 1704558043039
       }
     ]
   },
@@ -3176,6 +3181,11 @@
         "company": "Pegasus Airlines, Vueling",
         "price": "241 €",
         "timestamp": 1704544237677
+      },
+      {
+        "company": "Pegasus Airlines, Wizz Air Malta",
+        "price": "190 €",
+        "timestamp": 1704558043454
       }
     ]
   }
