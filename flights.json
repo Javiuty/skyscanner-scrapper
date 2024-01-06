@@ -1811,6 +1811,11 @@
         "company": "Pegasus Airlines, Vueling",
         "price": "238 €",
         "timestamp": 1704514837907
+      },
+      {
+        "company": "Pegasus Airlines, Vueling",
+        "price": "238 €",
+        "timestamp": 1704529203907
       }
     ]
   },
@@ -3156,6 +3161,11 @@
         "company": "Pegasus Airlines, Wizz Air Malta",
         "price": "190 €",
         "timestamp": 1704514837238
+      },
+      {
+        "company": "Pegasus Airlines, Vueling",
+        "price": "241 €",
+        "timestamp": 1704529203222
       }
     ]
   }
