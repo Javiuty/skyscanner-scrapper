@@ -1921,6 +1921,11 @@
         "company": "Varias aerolíneas",
         "price": "199 €",
         "timestamp": 1705062030605
+      },
+      {
+        "company": "Pegasus Airlines, Iberia",
+        "price": "194 €",
+        "timestamp": 1705107129329
       }
     ]
   },
@@ -3376,6 +3381,11 @@
         "company": "Varias aerolíneas",
         "price": "203 €",
         "timestamp": 1705062029697
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "209 €",
+        "timestamp": 1705107128893
       }
     ]
   }
