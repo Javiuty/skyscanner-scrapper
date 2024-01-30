@@ -2081,6 +2081,11 @@
         "company": "Pegasus Airlines, Air Europa",
         "price": "228 €",
         "timestamp": 1706489389085
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "365 €",
+        "timestamp": 1706575726274
       }
     ]
   },
@@ -3696,6 +3701,11 @@
         "company": "Pegasus Airlines, Ryanair",
         "price": "299 €",
         "timestamp": 1706489389514
+      },
+      {
+        "company": "Pegasus Airlines, Ryanair",
+        "price": "298 €",
+        "timestamp": 1706575725663
       }
     ]
   }
