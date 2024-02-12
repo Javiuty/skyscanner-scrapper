@@ -2206,6 +2206,11 @@
         "company": "Pegasus Airlines",
         "price": "360 €",
         "timestamp": 1707698969480
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "264 €",
+        "timestamp": 1707740376932
       }
     ]
   },
@@ -3946,6 +3951,11 @@
         "company": "Varias aerolíneas",
         "price": "265 €",
         "timestamp": 1707698968783
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "304 €",
+        "timestamp": 1707740376169
       }
     ]
   }
