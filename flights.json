@@ -2256,6 +2256,11 @@
         "company": "Varias aerolíneas",
         "price": "267 €",
         "timestamp": 1708130886873
+      },
+      {
+        "company": "Air Europa, Pegasus Airlines",
+        "price": "301 €",
+        "timestamp": 1708172239946
       }
     ]
   },
@@ -4046,6 +4051,11 @@
         "company": "Varias aerolíneas",
         "price": "263 €",
         "timestamp": 1708130886376
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "266 €",
+        "timestamp": 1708172240303
       }
     ]
   }
