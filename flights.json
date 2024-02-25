@@ -2321,6 +2321,11 @@
         "company": "Varias aerolíneas",
         "price": "264 €",
         "timestamp": 1708822332513
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "264 €",
+        "timestamp": 1708863458164
       }
     ]
   },
@@ -4176,6 +4181,11 @@
         "company": "Varias aerolíneas",
         "price": "282 €",
         "timestamp": 1708822332971
+      },
+      {
+        "company": "Iberia, Pegasus Airlines",
+        "price": "307 €",
+        "timestamp": 1708863457939
       }
     ]
   }
