@@ -2361,6 +2361,11 @@
         "company": "Varias aerolíneas",
         "price": "257 €",
         "timestamp": 1709167678418
+      },
+      {
+        "company": "Pegasus Airlines, KLM",
+        "price": "442 €",
+        "timestamp": 1709209173394
       }
     ]
   },
@@ -4256,6 +4261,11 @@
         "company": "Varias aerolíneas",
         "price": "223 €",
         "timestamp": 1709167677974
+      },
+      {
+        "company": "easyJet, Pegasus Airlines",
+        "price": "438 €",
+        "timestamp": 1709209174270
       }
     ]
   }
