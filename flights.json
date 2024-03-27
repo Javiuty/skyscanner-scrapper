@@ -2611,6 +2611,11 @@
         "company": "Wizz Air, Pegasus Airlines",
         "price": "367 €",
         "timestamp": 1711500537162
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "369 €",
+        "timestamp": 1711542010678
       }
     ]
   },
@@ -4756,6 +4761,11 @@
         "company": "Varias aerolíneas",
         "price": "333 €",
         "timestamp": 1711500536802
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "331 €",
+        "timestamp": 1711542010489
       }
     ]
   }
