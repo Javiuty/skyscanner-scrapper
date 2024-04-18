@@ -2806,6 +2806,11 @@
         "company": "Varias aerolíneas",
         "price": "335 €",
         "timestamp": 1713401370208
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "322 €",
+        "timestamp": 1713442778708
       }
     ]
   },
@@ -5141,6 +5146,11 @@
         "company": "Air Europa, Ajet",
         "price": "404 €",
         "timestamp": 1713401369932
+      },
+      {
+        "company": "Varias aerolíneas",
+        "price": "309 €",
+        "timestamp": 1713442779283
       }
     ]
   }
