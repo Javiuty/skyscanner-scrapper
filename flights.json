@@ -2841,6 +2841,11 @@
         "company": "KLM",
         "price": "769 €",
         "timestamp": 1713833458129
+      },
+      {
+        "company": "KLM",
+        "price": "857 €",
+        "timestamp": 1713874864358
       }
     ]
   },
@@ -5211,6 +5216,11 @@
         "company": "KLM",
         "price": "717 €",
         "timestamp": 1713833457792
+      },
+      {
+        "company": "Pegasus Airlines",
+        "price": "675 €",
+        "timestamp": 1713874864741
       }
     ]
   }
